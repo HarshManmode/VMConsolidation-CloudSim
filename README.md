@@ -103,6 +103,10 @@ The power model used is a **Linear Power Model** based on HP ProLiant G4 server 
 
 <img width="700" height="400" alt="Figure_2" src="https://github.com/user-attachments/assets/2c36b60f-7a47-458f-a7ac-225448b0ee85" />
 
+### Figure 3 — Energy Comparison
+
+<img width="700" height="400" alt="Figure_3" src="https://github.com/user-attachments/assets/54261504-fb10-4412-a28d-19bd3abc7928" />
+
 
 ## 🔮 Future Work
 
